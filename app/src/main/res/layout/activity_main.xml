@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yuri.myapplication.MainActivity">
+
+    <Button
+        android:id="@+id/Assist6"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="19dp"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_green_light"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="359dp" />
+
+    <Button
+        android:id="@+id/Assist5"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="19dp"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_red_dark"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="285dp" />
+
+    <Button
+        android:id="@+id/Assist4"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="19dp"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_green_light"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+    <Button
+        android:id="@+id/Assist2"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="19dp"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_red_dark"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="73dp" />
+
+    <Button
+        android:id="@+id/Assist3"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="19dp"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_red_dark"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <Button
+        android:id="@+id/Assist1"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="19dp"
+        android:layout_height="60dp"
+        android:background="@android:color/holo_green_light"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <Button
+        android:id="@+id/buttonK"
+        android:layout_width="69dp"
+        android:layout_height="60dp"
+        android:text="K"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <Button
+        android:id="@+id/buttonM"
+        android:layout_width="66dp"
+        android:layout_height="68dp"
+        android:text="M"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="205dp" />
+
+    <Button
+        android:id="@+id/buttonT"
+        android:layout_width="65dp"
+        android:layout_height="69dp"
+        android:text="T"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="280dp" />
+
+    <Button
+        android:id="@+id/buttonZ"
+        android:layout_width="64dp"
+        android:layout_height="68dp"
+        android:text="Z"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="353dp" />
+
+    <Button
+        android:id="@+id/buttonJ"
+        android:layout_width="67dp"
+        android:layout_height="62dp"
+        android:text="J"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="72dp" />
+
+    <Button
+        android:id="@+id/buttonD"
+        android:layout_width="70dp"
+        android:layout_height="60dp"
+        android:text="D"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="-1dp" />
+
+</android.support.constraint.ConstraintLayout>
